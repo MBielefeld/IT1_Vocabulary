@@ -1,0 +1,60 @@
+html, body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+footer {
+	background-color: #f1f1f1;
+}
+
+.panel-heading {
+	cursor: pointer;
+}
+
+.footer-menu {
+	display: flex;
+	justify-content: center;
+}
+
+/* Set height of the grid so .sidenav can be 100% (adjust as needed) */
+.row.content {
+	min-height: 100%;
+	height: 100%;
+}
+
+/* Set gray background color and 100% height */
+.sidenav {
+	background-color: #f1f1f1;
+	height: 100%;
+}
+
+.panel {
+	padding: 0;
+}
+
+.frage-neutral {
+	background-color: lightyellow;
+}
+
+.frage-falsch {
+	background-color: lightcoral;
+}
+
+.frage-richtig {
+	background-color: lightgreen;
+}
+
+.delete {
+	position: absolute;
+	right: 0;
+	top: 0;
+	height: 100%;
+}
+
+/* On small screens, set height to 'auto' for the grid */
+@media screen and (max-width: 767px) {
+	.row.content {
+		height: auto;
+	} 
+}

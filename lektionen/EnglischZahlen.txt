@@ -1,0 +1,33 @@
+Eins; one
+Zwei; two
+Drei; three
+Vier; four
+Fünf; five
+Sechs; six
+Sieben; seven
+Acht; eight
+Neun; nine
+Zehn; ten
+Elf; eleven
+Zwölf; twelve
+Dreizehn; thirteen
+Vierzehn; fourteen
+Fünfzehn; fiveteen
+Sechzehn; sixteen
+Siebzehn; seventeen
+Achtzehn; eighteen
+Neunzehn; nineteen
+Zwanzig; twenty
+Dreißig; thirty
+Vierzig; fourty
+Fünfzig; fivty
+Sechszig; sixty
+Siebzig; seventy
+Achtzig; eighty
+Neunzig; ninety
+Einhundert; one hundred
+Eintausend; one thousend
+Eine Million; one million
+Eine Milliarde; one billion
+Eine Billion; one trillion
+Eine Billiarde; one quadrillion
